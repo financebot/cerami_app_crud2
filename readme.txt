@@ -6,8 +6,8 @@ DIDACTICAL PURPOSE.
 
 
 #part1 code
-#create  dir /media/ubuntu/shareddir1/cerami_app_crud/
-D='/media/ubuntu/shareddir1/cerami_app_crud/'
+#create  dir /media/ubuntu/shareddir1/cerami_app_crud2/
+D='/media/ubuntu/shareddir1/cerami_app_crud2/'
 mkdir $D
 cd $D
 
@@ -33,7 +33,7 @@ sleep 3
 
 
 #DOWNLOAD option1
-#DOWNLOAD cerami_app_crud.ZIP
+#DOWNLOAD cerami_app_crud2.ZIP
 
 
 
@@ -49,12 +49,12 @@ git clone link
 
 
 now you should have this file hierarchy
-/media/ubuntu/shareddir1/cerami_app_crud
-/media/ubuntu/shareddir1/cerami_app_crud/package.json
-/media/ubuntu/shareddir1/cerami_app_crud/.babelrc
-/media/ubuntu/shareddir1/cerami_app_crud/readme.txt
-/media/ubuntu/shareddir1/cerami_app_crud/src
-/media/ubuntu/shareddir1/cerami_app_crud/src/app.js
+/media/ubuntu/shareddir1/cerami_app_crud2
+/media/ubuntu/shareddir1/cerami_app_crud2/package.json
+/media/ubuntu/shareddir1/cerami_app_crud2/.babelrc
+/media/ubuntu/shareddir1/cerami_app_crud2/readme.txt
+/media/ubuntu/shareddir1/cerami_app_crud2/src
+/media/ubuntu/shareddir1/cerami_app_crud2/src/app.js
 
 
 
@@ -116,7 +116,7 @@ npm install key-did-provider-ed25519
 
 
 part3. extra doc: useful links
-#/media/ubuntu/shareddir1/cerami_app_crud/src/
+#/media/ubuntu/shareddir1/cerami_app_crud2/src/
 #https://blog.ceramic.network/getting-started-with-ceramic/#things-we-need-to-talk-about
 #https://blog.ceramic.network/orbis-launches-web3-social-protocol-on-ceramic-mainnet-and-opens-sdk-to-developers/
 #https://developers.ceramic.network/tools/glaze/did-datastore/
